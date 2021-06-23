@@ -8,30 +8,35 @@
 - 🎓 I'm currently pursuing B.Tech with **Computer Science**   
 
 ### Connect with me:
-[<img align="left" alt="Utkarsh Kumar Singh | Twitter"    width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"   />][twitter]
-[<img align="left" alt="Utkarsh Kumar Singh | LinkedIn"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />][linkedin]
-[<img align="left" alt="Utkarsh Kumar Singh | Facebook"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"  />][facebook]
-[<img align="left" alt="Utkarsh Kumar Singh | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg"/>][codeforces]
-[<img align="left" alt="Utkarsh Kumar Singh | Codechef"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg"  />][codechef]
-[<img align="left" alt="Utkarsh Kumar Singh | Instagram"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][insta]
-[<img align="left" alt="Utkarsh Kumar Singh | TopCoder"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/topcoder.svg"  />][topcoder]
-[<img align="left" alt="Utkarsh Kumar Singh | Leetcode"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"  />][leetcode]
-[<img align="left" alt="Utkarsh Kumar Singh | GitHub"     width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"    />][github]
+[<img align="left" alt="Utkarsh Kumar Singh | Twitter"    width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"   />][twitter]
+[<img align="left" alt="Utkarsh Kumar Singh | LinkedIn"   width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />][linkedin]
+[<img align="left" alt="Utkarsh Kumar Singh | Facebook"   width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"  />][facebook]
+[<img align="left" alt="Utkarsh Kumar Singh | Instagram"  width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][insta]
 <br />
+<br/>
+
+### CP Profiles
+[<img align="left" alt="Utkarsh Kumar Singh | Codeforces" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg"/>][codeforces]
+[<img align="left" alt="Utkarsh Kumar Singh | Codechef"   width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg"  />][codechef]
+[<img align="left" alt="Utkarsh Kumar Singh | TopCoder"   width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/topcoder.svg"  />][topcoder]
+[<img align="left" alt="Utkarsh Kumar Singh | Leetcode"   width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"  />][leetcode]
+[<img align="left" alt="Utkarsh Kumar Singh | GitHub"     width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"    />][github]
+<br/>
+<br/>
 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5"     width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"           />
-<img align="left" alt="CSS3"      width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"             />
-<img align="left" alt="JavaScript"width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="Node.js"   width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"       />
-<img align="left" alt="MongoDB"   width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"   />
-<img align="left" alt="React"     width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"         />
-<img align="left" alt="GitHub"    width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"       />
-<img align="left" alt="MongoDB"   width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"     />
-<img align="left" alt="MongoDB"   width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"       />
-<img align="left" alt="MongoDB"   width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"     />
+<img align="left" alt="HTML5"     width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"           />
+<img align="left" alt="CSS3"      width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"             />
+<img align="left" alt="JavaScript"width="45px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" alt="Node.js"   width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"       />
+<img align="left" alt="MongoDB"   width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"   />
+<img align="left" alt="React"     width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"         />
+<img align="left" alt="GitHub"    width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"       />
+<img align="left" alt="MongoDB"   width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"     />
+<img align="left" alt="MongoDB"   width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"       />
+<img align="left" alt="MongoDB"   width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"     />
 <br />
 <br />
 
