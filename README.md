@@ -44,13 +44,17 @@
 ---
 <img align="left" alt="Utkarsh Kumar Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=stunnerhash&show_icons=true&hide_border=true">
 
+[codeforces]: https://codeforces.com/profile/stunnerhash/
+
 [topcoder]:   https://topcoder.com/members/stunnerhash/
-[atcoder]:    https://atcoder.jp/users/stunnerhash/
+
+[codechef]:   https://codechef.com/users/stunnerhash/
+
+[facebook]:   https://www.facebook.com/stunnerhash/
 [linkedin]:   https://linkedin.com/in/stunnerhash/
-[codeforces]: https://codeforces.com/stunnerhash/
+
 [insta]:      https://instagram.com/stunnerhash/
 [leetcode]:   https://leetcode.com/stunnerhash/
 [twitter]:    https://twitter.com/stunnerhash/
 [github]:     https://github.com/stunnerhash/
-[codechef]:   https://codechef.com/stunnerhash/
-[facebook]:   https://facebook.com/stunnerhash/
+
