@@ -1,11 +1,11 @@
 ## Hey there👋, I'm Utkarsh ( Internet also knows me as ``stunnerhash``).
 
 ---
-### I'm a Student, Developer, Problem Solver and an Anime enthusiast.
+### I'm a Student, Developer, Freelancer and Problem Solver.
 - 🛠  I'm currently working on a **Web Application** called ``BugBGone``.
 - 😳 I'm currently interested in **Competitive Programming**.
 - 🤠 My daily procastination includes learning React and having fewer dumb errors.
-- 🎓 I'm currently pursuing B.Tech with **Computer Science**   
+- 🎓 I'm currently pursuing B.Tech with **Information Technology**   
 
 ### Connect with me:
     
